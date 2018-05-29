@@ -1,2 +1,3 @@
-# chef-nginx-kitchen-vagrant
-Chef NGINX Kitchen Vagrant
+# Chef NGINX Kitchen Vagrant
+
+## Chef NGINX Kitchen Vagrant
